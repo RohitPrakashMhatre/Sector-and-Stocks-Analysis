@@ -23,4 +23,24 @@ The analysis includes:
   - CSV file of stocks symbols, sector name & NSE:CODE provided by skateholders.
   - Yahoo Finance (yfinance) → Fetching stock market data as per the dates of skateholders.
 
+🛠️ Libraries Used
+
+- pandas → Data manipulation
+- matplotlib & seaborn → Data visualization
+- yfinance → Fetching live stock data
+
+🚀 Installation & Setup
+Clone the repository
+
+git clone https://github.com/RohitPrakashMhatre/Sector-and-Stocks-Analysis.git
+
+Navigate to the project directory
+
+cd Sector-and-Stocks-Analysis
+
+Install dependencies
+
+pip install -r requirements.txt
+
+
 
