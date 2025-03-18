@@ -8,15 +8,15 @@
 
 The analysis includes:
 
-  📌 Identifying top-performing sectors
-  
-  🔄 Evaluating sector performance trends over the last 3-4 months
-  
-  📉 Volatility analysis of top-performing sectors
-  
-  📊 Analyzing top-performing individual stocks
-  
-  💡 Extracting insights to help stakeholders make informed investment decisions
+    📌 Identifying top-performing sectors
+    
+    🔄 Evaluating sector performance trends over the last 3-4 months
+    
+    📉 Volatility analysis of top-performing sectors
+    
+    📊 Analyzing top-performing individual stocks
+    
+    💡 Extracting insights to help stakeholders make informed investment decisions
 
 📈 Portfolio Allocation Strategy
 
