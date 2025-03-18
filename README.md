@@ -46,8 +46,7 @@ Navigate to the project directory
 Install dependencies
  pip install -r requirements.txt
  
-🤝 Contributions
-Contributions are welcome! Feel free to submit issues and pull requests.
+-Contributions are welcome! Feel free to submit issues and pull requests.
 
 📧 Contact
 For queries, reach out to [www.linkedin.com/in/rohit-mhatre-50702a260].
