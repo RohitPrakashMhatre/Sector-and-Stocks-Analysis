@@ -22,9 +22,9 @@ The analysis includes:
 
 Initial Cash: ₹100,000
 -Allocation Distribution:
-  50% to Top 5 Stocks
-  30% to Top 10 Stocks
-  20% to Top 15 Stocks
+  -50% to Top 5 Stocks
+  -30% to Top 10 Stocks
+  -20% to Top 15 Stocks
 -Stocks are selected from different sectors based on performance.
 
 📥 Data Source
